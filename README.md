@@ -15,3 +15,5 @@
 
 [ControlNet-XS: Designing an Efficient and Effective Architecture for Controlling Text-to-Image Diffusion Models](https://arxiv.org/pdf/2312.06573.pdf)
 
+[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/pdf/2312.00752.pdf)
+
