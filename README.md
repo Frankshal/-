@@ -13,3 +13,5 @@
 ## Efficient AI
 [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/pdf/2312.11514.pdf)
 
+[ControlNet-XS: Designing an Efficient and Effective Architecture for Controlling Text-to-Image Diffusion Models](https://arxiv.org/pdf/2312.06573.pdf)
+
