@@ -11,14 +11,16 @@
 
 ### Quant
 
-### 大模型开发
+### LLM Application
 
-### 大数据开发
+### Big Data
 * ~~***HIVE SQL***~~
 
 * K8s
 
 * hadoop
+
+### Leetcode
 
 
 ## 论文
