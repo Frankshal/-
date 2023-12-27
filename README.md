@@ -14,11 +14,11 @@
 ### 大模型开发
 
 ### 大数据开发
-~~***HIVE SQL***~~
+* ~~***HIVE SQL***~~
 
-K8s
+* K8s
 
-hadoop
+* hadoop
 
 
 ## 论文
