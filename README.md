@@ -11,7 +11,8 @@
 
 ### Quant
 
-### LLM Application
+### LLM 
+* LLM application
 
 ### Big Data
 * ~~***HIVE SQL***~~
