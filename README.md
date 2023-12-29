@@ -22,7 +22,8 @@
 * hadoop
 
 ### Leetcode
-
+* Rust
+* C++
 
 ## 论文
 
