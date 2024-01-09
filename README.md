@@ -43,3 +43,5 @@
 
 [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/pdf/2312.00752.pdf)
 
+[Gated Linear Attention Transformers with Hardware-Efficient Training](https://arxiv.org/pdf/2312.06635v3.pdf)
+
