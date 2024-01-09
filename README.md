@@ -45,3 +45,7 @@
 
 [Gated Linear Attention Transformers with Hardware-Efficient Training](https://arxiv.org/pdf/2312.06635v3.pdf)
 
+[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180v1.pdf)
+
+
+
