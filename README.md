@@ -47,5 +47,7 @@
 
 [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180v1.pdf)
 
+[Mixtral of Experts](https://arxiv.org/pdf/2401.04088v1.pdf)
+
 
 
