@@ -14,6 +14,11 @@
 ### LLM 
 * LLM application
 
+### AI infra
+* [1](https://www.bilibili.com/read/cv21242696/?spm_id_from=333.999.0.0)
+
+* [2](https://www.bilibili.com/read/cv21166527/?spm_id_from=333.999.0.0)
+
 ### Big Data
 * ~~***HIVE SQL***~~
 
