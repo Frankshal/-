@@ -54,5 +54,7 @@
 
 [Mixtral of Experts](https://arxiv.org/pdf/2401.04088v1.pdf)
 
+[Towards Efficient Generation LLM Serving: A Survey from Algorithms to Systems](http://arxiv.org/abs/2312.15234)
+
 
 
