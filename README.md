@@ -37,7 +37,8 @@
 
 [RT-1: Robotics Transformer for real-world control at scale](https://blog.research.google/2022/12/rt-1-robotics-transformer-for-real.html)
 
-
+#world model
+[Introduction to Latent Variable Energy-Based Models: A Path Towards Autonomous Machine Intelligence](https://arxiv.org/pdf/2306.02572v1.pdf)
 ### Agent
 [AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/pdf/2312.13771v1.pdf)
 
