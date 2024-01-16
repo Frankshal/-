@@ -12,7 +12,7 @@
 ### Quant
 
 ### LLM 
-* LLM application
+* [大模型技术栈幕布](https://mubu.com/doc/48pGz9X_0Lb#o-i3U6zB7d3E)
 
 ### AI infra
 * [1](https://www.bilibili.com/read/cv21242696/?spm_id_from=333.999.0.0)
