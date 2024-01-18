@@ -61,5 +61,7 @@
 
 [Towards Efficient Generation LLM Serving: A Survey from Algorithms to Systems](http://arxiv.org/abs/2312.15234)
 
+[Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models](https://arxiv.org/pdf/2401.04658.pdf)
+
 
 
