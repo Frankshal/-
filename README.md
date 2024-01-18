@@ -37,6 +37,8 @@
 
 [RT-1: Robotics Transformer for real-world control at scale](https://blog.research.google/2022/12/rt-1-robotics-transformer-for-real.html)
 
+[Shaping the future of advanced robotics](https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/)
+
 ### World Model
 
 [Introduction to Latent Variable Energy-Based Models: A Path Towards Autonomous Machine Intelligence](https://arxiv.org/pdf/2306.02572v1.pdf)
