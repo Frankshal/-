@@ -63,5 +63,8 @@
 
 [Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models](https://arxiv.org/pdf/2401.04658.pdf)
 
+### Vision
+
+[Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/pdf/2401.09417.pdf)
 
 
