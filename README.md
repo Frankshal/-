@@ -39,6 +39,8 @@
 
 [Shaping the future of advanced robotics](https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/)
 
+[MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World](https://arxiv.org/pdf/2401.08577.pdf)
+
 ### World Model
 
 [Introduction to Latent Variable Energy-Based Models: A Path Towards Autonomous Machine Intelligence](https://arxiv.org/pdf/2306.02572v1.pdf)
